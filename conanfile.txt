@@ -1,0 +1,6 @@
+[requires]
+Beast/2016.9.2@TyRoXx/master
+Boost/1.60.0@lucteo/stable
+
+[generators]
+cmake
